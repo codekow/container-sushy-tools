@@ -2,7 +2,7 @@
 
 A minimal container for sushy-tools
 
-## Build container
+## Quickstart
 
 ```sh
 docker build -t sushy-tools .
